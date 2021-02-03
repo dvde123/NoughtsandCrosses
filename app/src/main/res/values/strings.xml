@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Noughts and Crosses</string>
+    <string name="startButton">Start</string>
+    <string name="backButton">Back</string>
+    <string name="textHeading2">Game</string>
+    <string name="restartButton">Restart</string>
+</resources>
